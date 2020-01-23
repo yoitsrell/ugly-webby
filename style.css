@@ -1,9 +1,10 @@
-body{background-color: black;
+body{background-color: black; 
 background-image: url(https://media2.giphy.com/media/TRMvepHQWl3C8/giphy.gif);}
 h1 {
 
     background-image: url(https://www.trendingbuffalo.com/wp-content/uploads/2013/07/uglybaby.jpg) ;
-    color:ghostwhite;
+    color: hotpink ;
+    text-decoration-color: lightseagreen;
     font-family: 'Helvetica Neue', sans-serif;
     font-size: 275px;
     font-weight: thin;
