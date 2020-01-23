@@ -1,9 +1,11 @@
-body{background-color: black; 
+body{background-color: black; border: limegreen;
 background-image: url(https://media2.giphy.com/media/TRMvepHQWl3C8/giphy.gif);}
 h1 {
 
     background-image: url(https://www.trendingbuffalo.com/wp-content/uploads/2013/07/uglybaby.jpg) ;
     color: hotpink ;
+    border: purple;
+    border-radius: 50%;
     text-decoration-color: lightseagreen;
     font-family: 'Helvetica Neue', sans-serif;
     font-size: 275px;
@@ -33,24 +35,26 @@ textarea {
 }
 
 ul, ol {
-    background-image: url(https://www.trendingbuffalo.com/wp-content/uploads/2013/07/uglybaby.jpg)
+    background-image: url(https://media.npr.org/assets/img/2013/09/12/blobfish122way_custom-dd3fcd75ff56be0187f975e6bdcff58fc8188863-s800-c85.jpg)
     letter scroll-padding-left:; letter-spacing: ;animation: ;text-shadow: ;transform-origin: ;border-top-left-radius: ;text-indent: ;
     margin: 20px;
     padding: 0;
 }
 
 li {
-    background-image: url(https://www.trendingbuffalo.com/wp-content/uploads/2013/07/uglybaby.jpg);
+    background-image: url(https://media.npr.org/assets/img/2013/09/12/blobfish122way_custom-dd3fcd75ff56be0187f975e6bdcff58fc8188863-s800-c85.jpg);
     letter-spacing: +50px;
+    border: sandybrown;
     font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
     border-bottom: 1px solid #ccc;
 }
    
 li:last-child {
+    box-shadow: slateblue;
     background-image: url(https://www.trendingbuffalo.com/wp-content/uploads/2013/07/uglybaby.jpg);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
-    border: none;
+    border: olivedrab;
 }
 
 form {
